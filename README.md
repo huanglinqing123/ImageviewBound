@@ -22,6 +22,6 @@
       imageViewBound.setMessageNum(1);每次设置都实时有效
       当设置的数量>=100时，则会显示99+，字体大小根据设置的数字自动适配。
 ### 3.效果图
-     ![image](image/jietu.png)
+   ![avatar](image/jietu.png)
     
       
