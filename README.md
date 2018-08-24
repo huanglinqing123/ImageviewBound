@@ -11,8 +11,7 @@
     </dependency>
 #### gradle:
       compile 'com.hlq:imageviewBound:1.0.0'
-      当前jcenter未通过审核
-  ![avatar](image/shuoming.png)
+ 
 ### 2.使用方式
      在xml中：
       <hlq.ImageViewBound
